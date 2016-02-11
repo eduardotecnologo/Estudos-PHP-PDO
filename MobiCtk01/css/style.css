@@ -1,0 +1,125 @@
+/*RESET*/
+*{margin: 0;
+  padding: 0;}
+body{
+	width: 860px;
+	margin: 0 auto;
+}
+#box{
+	width: 860px;
+	margin: 0 auto;
+}
+/*Topo*/
+#header{
+
+}
+#header_topo{
+	height: 60px;
+	border-bottom: 7px solid #1b152b;
+}
+#header_topo img{
+	float: left;
+	margin: 19px;
+}
+#header_topo ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+#header_topo ul li{/*Menus*/
+	font: 26px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	display: inline;
+	float: left;
+}
+#header_topo ul li a{ /*Menus*/
+	padding: 10px 10px;
+	float: left;
+	text-decoration: none;
+	margin: 10px 14px;
+	color: #1b152b; 
+}
+#header_topo ul li a:hover{
+	background: #ffe900; 
+	color: #1b152b;
+}
+#header_navegar{
+	width: 860px;
+	height: 250px;
+}
+#header_navegar_central{
+    width: 235px;
+    float: left;
+}
+#header_navegar_central_anunciante{
+    width: 235px;
+    height: 127px;
+    background:url(../imagens/central_bg.jpg) no-repeat;
+}
+#header_navegar_central_anunciante label{
+    display: block;
+}
+#header_navegar_central_anunciante form{
+	margin: 40px 0 0 12px;
+	float: left; 
+}
+#header_navegar_central_anunciante span{
+	font: 14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #1b152b;
+	font-weight: bold;
+	width: 55px;
+	float: left;
+	text-align: right;
+	margin-right:2px;
+}
+#header_navegar_central_anunciante input{
+	width: 141px;
+	height: 20px;
+	border: 1px solid #1b152b;
+	background: #fff;
+	padding: 2px;
+}
+#header_navegar_central_anunciante .senha{
+	width: 141px;
+}
+#header_navegar_central_anuncie{
+    width: 250px;
+    height: 230px;
+    background:url(../imagens/anuncie_bg.jpg) no-repeat;
+}
+#header_navegar_filtro{
+    width: 413px;
+    height: 248px;
+    background:url(../imagens/busca_avancada_bg.jpg) no-repeat; float: left;
+}
+#header_navegar_publicidade{
+	width: 201px;
+	height: 252px;
+	padding: 2px;
+	float: right;
+}
+#header_navegar_publicidade h1{
+	font:29px Georgia, "Times New Roman", Times, serif; 
+    color: #ffe900;
+    margin-bottom: 5px; 	
+    padding-bottom: 5px;
+    border-bottom: 5px solid #1b152b;
+}
+#header_navegar_publicidade h1:hover{
+	background: #1b152b;
+	color:#ffe900;
+}
+/*Imoveis Home*/
+#imoveis_home{
+
+}
+/*Imoveis Home Lista*/
+#imoveis_home_lista{
+
+}
+/*FOOTER*/
+#footer{
+
+}
+/**/
