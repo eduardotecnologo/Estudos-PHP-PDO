@@ -1,0 +1,65 @@
+
+main form{
+	background:#fff;
+	border:1px solid #CC8200;
+	border-radius:5px;
+	width:642px;
+	height:266px;
+	margin:0 auto;
+}
+main form p{
+	background:none;
+	color: #7D6666;
+	margin:4px 22px 30px;
+	padding:10px;
+	border-bottom:1px solid #CC8200;
+	font-size:20px;
+	text-align:center;
+}
+main form div{
+	background:none;
+	margin:0 auto 15px;
+	text-align:center;
+	width:225px;
+}
+main form label{
+	background:none;
+	padding:5px 10px;
+	color: #7D6666;
+}
+main form input[type='text'],[type='password']{
+	border:1px solid #BDC7D8;
+	height:20px;
+	padding:0 5px;
+	width:250px;
+}
+main form button{
+	background:#CC8200;
+	border:1px solid #CC8200;
+	margin-left:165px;
+	cursor:pointer;
+	color: #fff;
+	padding:5px 20px;
+	font-weight:bolder;
+}
+main form button:hover{
+	background:#7D6666;
+	color: #CC8200;
+}
+main form span{
+	float:right;
+	width:450px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

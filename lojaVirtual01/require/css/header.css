@@ -1,0 +1,11 @@
+*{
+	margin:0;
+	font-family:'lucida grande',tahoma, verdana, arial,sans-serif;
+	font-size:16px;
+}
+#dvBase{
+	background:#CC8200;
+	width:1007px;
+	height:100%;
+	margin:0 auto;
+}
