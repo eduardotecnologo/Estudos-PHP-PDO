@@ -10,7 +10,7 @@ $returnUrlAmigavel=$urlAmigavel->setUrlAmigavel(REDIRECT_URL);
 <html lang="pt-BR">
 <head>
 	<meta charset="utf-8">
-	<title>BigCred Financeira</title>
+	<title>Loja Virtual 01</title>
 	<link rel="stylesheet" type="text/css" href="require/css/header.css"/>
 	<script type="text/javascript" src="require/js/jquery.js"></script>
 	<script type="text/javascript" src="require/js/login.js"></script>
