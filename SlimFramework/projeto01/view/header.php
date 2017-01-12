@@ -37,7 +37,7 @@
 			</div>
 			
 			<div class="container">
-				<img id="logotipo" src="img/logo.png" alt="Logotipo">
+				<img id="logotipo" src="img/LoExSto.png" alt="Logotipo">
 			</div>
 
 			<div class="header-white">

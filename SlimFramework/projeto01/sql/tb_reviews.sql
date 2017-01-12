@@ -41,4 +41,4 @@ tb_produtos.quantidade_estoque,
 tb_produtos.preco_promorcional,
 tb_produtos.foto_principal,
 tb_produtos.visivel
-LIMIT 4;
+LIMIT 4;sp_carrinhos_getsp_carrinhos_get

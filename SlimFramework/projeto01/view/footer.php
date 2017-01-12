@@ -8,7 +8,7 @@
 						
 						<div class="col-md-2 text-center hidden-xs">
 							
-							<img class="logotipo" src="../img/logo.png" alt="Logotipo">
+							<img class="logotipo" src="../img/LoExSto.png" alt="Logotipo">
 
 						</div>
 						<div class="col-md-10">
@@ -94,7 +94,7 @@
 							
 							<div class="container copyright-mobile">
 								
-								<p class="pull-left">Copyright © StarBucksFaker café 2016. All right reserved..</p>
+								<p class="pull-left">Copyright © Ebai 2016. All right reserved..</p>
 								<p class="pull-right text-gren">Create by Eduardo ALexandre</p>
 
 							</div>

@@ -32,6 +32,24 @@ $app->get(
 		require_once("view/shop.php");
 	}
 );
+$app->get(
+    '/cart',
+    function(){
+        require_once("view/cart.php");
+    }
+);
+$app->get(
+    '/carrinho-dados', 
+    function(){
+        $request_body = json_decode(file_get_contents('php://input'),true);
+    var_dump($request_body);
+});
+$app->get(
+    '/carrinho', 
+    function(){
+        $request_body = json_decode(file_get_contents('php://input'),true);
+    var_dump($request_body);
+});
 
 $app->get(
     '/produtos', function (){
