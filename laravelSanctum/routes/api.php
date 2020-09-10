@@ -21,7 +21,8 @@ Route::post('/sanctum/token', function (Request $request) {
         ]);
     }
 
-    return $user->createToken('my_first_token')->plainTextToken;
+    return $user->createToken('post_can_update', ['post:update','post:delete'])->plainTextToken;
+    // return $user->createToken('my_first_token')->plainTextToken;
 });
 
 Route::middleware('auth:api')->get('/user', function (Request $request) {
